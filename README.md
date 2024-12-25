@@ -54,6 +54,7 @@ Las contribuciones son bienvenidas. Por favor, sigue estos pasos para contribuir
 
 ## Licencia / copyright
 `SFTP/FTP Access` está licenciado bajo la [MIT License](https://opensource.org/license/MIT)
+`Copyright` lo puedes ver [aquí](https://docs.google.com/document/d/1gk78km5n0g4KVjnGRbzPx-bs5YlJfE0lpXUehuMfqQQ)
 
 Visita mi [Discord 🌟](https://discord.gg/zRvTmjnF) y el de elyx! un dev [M S X 🌐](https://discord.gg/bdEfjUKXtr)
 <div align="left">
