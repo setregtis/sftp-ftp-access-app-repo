@@ -19,3 +19,34 @@ Sigue los siguientes pasos para instalar `SFTP/FTP Access` en tu sistema:
 1. Clona este repositorio:
    ```sh
    git clone https://github.com/tu_usuario/sftp-ftp-access.git
+2. Navega al directorio del proyecto:
+   ```sh
+   cd sftp-ftp-access
+3. Compila y ejecuta la app:
+   ```sh
+   cargo build
+   cargo run
+
+## Uso
+Abre la aplicación.
+Configura una nueva conexión utilizando el Administrador de Sitios.
+Conéctate a un servidor remoto usando SFTP o FTP.
+Transfiere archivos entre tu sistema local y el servidor remoto arrastrando y soltando.
+
+## Contribuciones
+Las contribuciones son bienvenidas. Por favor, sigue estos pasos para contribuir:
+1. Haz un fork del repositorio.
+2. Crea una nueva rama:
+```sh
+git checkout -b feature-nueva-funcionalidad
+3. Realiza tus cambios y haz commits:
+```sh
+git commit -m "Añade nueva funcionalidad"
+4. Sube tus cambios a tu rama:
+```sh
+git push origin feature-nueva-funcionalidad
+5. Crea un Pull request en Github
+
+## Licencia / copyright
+SFTP/FTP Access está licenciado bajo la [MIT License](https://opensource.org/license/MIT)
+.
