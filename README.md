@@ -39,15 +39,15 @@ Las contribuciones son bienvenidas. Por favor, sigue estos pasos para contribuir
 1. Haz un fork del repositorio.
    
 2. Crea una nueva rama:
-```sh
+   ```sh
 git checkout -b feature-nueva-funcionalidad
 
 3. Realiza tus cambios y haz commits:
-```sh
+   ```sh
 git commit -m "Añade nueva funcionalidad"
 
 4. Sube tus cambios a tu rama:
-```sh
+   ```sh
 git push origin feature-nueva-funcionalidad
 
 5. Crea un Pull request en Github
